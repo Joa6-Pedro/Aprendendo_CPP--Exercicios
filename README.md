@@ -1,7 +1,7 @@
 # Aprendendo_CPP--Exercicios
 Exercícios de Pratica da linguagem C++ - Data de inicio 11/02/26
 
-Os exercícios têm como objetivo praticar lógica de programação, controle de fluxo, entrada e saída de dados e estrutura básica da linguagem C++, com foco em exercícios introdutórios
+Os exercícios têm como objetivo praticar lógica de programação, controle de fluxo, entrada e saída de dados e estrutura básica da linguagem C++.
 
 1 - Calculadora: Deve Requisitar ao usuário uma operação matemática basica a ser realizada por meio de valores numéricos. Após a entrada do valor deve requisitar outros dois valores a serem processados e retornados por meio do console. O programa deve ser finalizado quando na "tela" incial o usuário digitar o valor '0'.
 
