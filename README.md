@@ -90,8 +90,8 @@ g++ nome_do_arquivo.cpp -o programa.exe
 g++ cadastroPessoas_ComEstatisticas.cpp -o cadastroPessoas_ComEstatisticas.exe
 ```
 
-```bash
 ## Observações
-
+```bash
 Este repositório tem fins educacionais e documenta meu processo de aprendizado em C++.  
 Os códigos priorizam clareza e prática dos conceitos, não otimização avançada.
+```
