@@ -84,4 +84,14 @@ Para compilar qualquer exercício, utilize um compilador C++ (exemplo com `g++`)
 ```bash
 g++ nome_do_arquivo.cpp -o programa.exe
 
+```
+## Exemplo
+```bash
 g++ cadastroPessoas_ComEstatisticas.cpp -o cadastroPessoas_ComEstatisticas.exe
+```
+
+```markdown
+## Observações
+
+Este repositório tem fins educacionais e documenta meu processo de aprendizado em C++.  
+Os códigos priorizam clareza e prática dos conceitos, não otimização avançada.
