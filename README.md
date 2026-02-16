@@ -91,7 +91,7 @@ g++ cadastroPessoas_ComEstatisticas.cpp -o cadastroPessoas_ComEstatisticas.exe
 ```
 
 ## Observações
-```bash
+```markdown
 Este repositório tem fins educacionais e documenta meu processo de aprendizado em C++.  
 Os códigos priorizam clareza e prática dos conceitos, não otimização avançada.
 ```
